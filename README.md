@@ -2,7 +2,7 @@
 
 O tema **Código Central - Dark POG** para o Visual Studio Code é inspirado nos misteriosos e icônicos hackers dos filmes, combinando uma estética sombria com cores vibrantes que destacam seu código de maneiras que você nunca viu antes. Prepare-se para uma experiência de codificação que não é apenas sobre escrever código, mas sentir o poder e a adrenalina de ser um hacker do bem, tudo isso enquanto mantém sua produtividade e conforto visual.
 
-![Preview](./preview/scshoot1.png)
+![Preview](https://github.com/codigocentral/CodigoCentral-Tema-DarkPog/blob/main/preview/scshoot1.png)
 
 ## Características
 
@@ -24,8 +24,8 @@ O tema **Código Central - Dark POG** para o Visual Studio Code é inspirado nos
 
 Inclua aqui algumas screenshots do seu tema em ação, mostrando diferentes linguagens de programação ou configurações:
 
-![HTML Preview](./preview/scshoot2.png)
-![C# Preview](./preview/scshoot1.png)
+![HTML Preview](https://github.com/codigocentral/CodigoCentral-Tema-DarkPog/blob/main/preview/scshoot2.png)
+![C# Preview](https://github.com/codigocentral/CodigoCentral-Tema-DarkPog/blob/main/preview/scshoot1.png)
 
 ## Contribuindo
 
@@ -33,7 +33,7 @@ Sua contribuição é bem-vinda! Se você tiver ideias para melhorar o tema ou e
 
 ## Licença
 
-O tema **Código Central Hacker Mau** é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+O tema **Código Central - Dark POG** é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
