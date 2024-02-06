@@ -1,7 +1,7 @@
 {
-  "name": "codigocentral",
-  "displayName": "Código Central",
-  "description": "Código Central Tema",
+  "name": "codigocentral-darkpog",
+  "displayName": "Código Central - dark pog",
+  "description": "Código Central - dark pog",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"
@@ -12,10 +12,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Código Central",
+        "label": "Código Central - dark pog",
         "uiTheme": "vs-dark",
         "path": "./themes/Código Central-color-theme.json"
       }
     ]
+  },
+  "publisher": "Código Central",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codigocentral/CodigoCentral-Tema-DarkPog"
   }
 }
