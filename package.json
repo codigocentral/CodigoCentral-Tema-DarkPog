@@ -1,8 +1,9 @@
 {
   "name": "codigocentral-darkpog",
-  "displayName": "Código Central - dark pog",
-  "description": "Código Central - dark pog",
-  "version": "0.0.1",
+  "displayName": "Código Central - Dark POG",
+  "description": "Código Central - Dark POG",
+  "icon": "icon.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -12,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Código Central - dark pog",
+        "label": "Código Central - Dark POG",
         "uiTheme": "vs-dark",
         "path": "./themes/Código Central-color-theme.json"
       }
