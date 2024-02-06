@@ -1,0 +1,21 @@
+{
+  "name": "codigocentral",
+  "displayName": "Código Central",
+  "description": "Código Central Tema",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Código Central",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Código Central-color-theme.json"
+      }
+    ]
+  }
+}
